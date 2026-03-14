@@ -74,8 +74,6 @@
 
 @media (max-width: 768px) {
   .nav-links {
-    /* display: none; Mobile menu to be implemented later if needed */
-    display: flex;
-    gap: 1rem;
+    display: none; /* Mobile menu to be implemented later if needed */
   }
 }
