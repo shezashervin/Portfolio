@@ -14,27 +14,21 @@ const About = () => {
 
         <div className="about-content">
           <div className="about-text glass-panel">
-            <p>
-              Hello! I'm Sheza, a software developer with hands-on experience building web applications
-              using Python, Django, React, MySQL, and JavaScript. With a BCA background, I have developed
-              projects implementing CRUD operations, authentication, and relational database integration.
-            </p>
+  <p>
+    Hello!
+  </p>
+  <p>
+    I'm Sheza, a full stack developer with experience building web applications using Python, Django, React, MySQL, and JavaScript.
+  </p>
 
-            <p>
-              I enjoy building structured and reliable applications from backend logic to user interfaces,
-              focusing on clean, maintainable code and systematic problem solving.
-            </p>
+  <p>
+    I focus on developing clean, maintainable applications and am currently exploring AI integration and modern APIs.
+  </p>
 
-            <p>
-              I am also exploring AI integration in applications and learning how modern APIs and tools
-              can enhance software functionality and user experience.
-            </p>
-
-            <p>
-              I'm interested in contributing to real-world projects, collaborating with development teams,
-              and continuously improving my skills as a full stack developer.
-            </p>
-          </div>
+  <p>
+    Interested in contributing to real-world projects and growing as a full stack developer.
+  </p>
+</div>
 
           <div className="skills-container glass-panel">
             <h3 className="skills-title">Technical Skills</h3>

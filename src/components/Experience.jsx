@@ -76,7 +76,7 @@ const Experience = () => {
 
           {/* Certifications */}
           <div className="timeline-column">
-            <h3 className="column-title">Certifications</h3>
+            <h3 className="column-title">Certification</h3>
             <div className="timeline">
               {certifications.map((cert, index) => (
                 <div key={index} className="timeline-item">
