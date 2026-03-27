@@ -7,13 +7,13 @@ const Hero = () => {
         <div className="hero-content">
           <h2 className="hero-greeting">Hi, I'm</h2>
           <h1 className="hero-name gradient-text">Sheza Shervin Jamal</h1>
-          <h3 className="hero-title">Software Developer</h3>
+          <h3 className="hero-title">Full Stack Developer</h3>
           <div className="open-to-work">
             <span className="status-dot"></span>
             Open to Work
           </div>
           <p className="hero-description">
-            Software Developer building modern web applications and exploring AI-powered tools.          </p>
+            Full Stack Developer building modern web applications and exploring AI-powered tools.          </p>
           <div className="hero-cta">
             <a href="#projects" className="btn btn-primary">View Work</a>
             <a href="#contact" className="btn btn-secondary">Contact Me</a>
